@@ -6,12 +6,12 @@ Simple Example of web audio recorder
     
     You can use any http-server that you like or install the above using npm
 
-npm install -g http-server
+npm install -g http-server<br>
     Listen live to the recorded file, anytime.
     Detail explanation and live demo here Record and Export Audio, Video files in browser using Web Audio API with Recorder.js
 
-$ cd js
-$ http-server
+$ cd js<br>
+$ http-server<br>
 
     Open http://localhost:8080 in enjoy
 
